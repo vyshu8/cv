@@ -1,0 +1,31 @@
+body{
+  background-color:Aquamarine;
+  }
+
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: orange;
+  border-width:5px;
+  width:15%;
+}
+
+h1{
+  font-style: italic;
+  color:tomato;
+}
+h2{
+  font-style: italic;
+  color:violet;
+}
+
+h3{
+  font-style: italic;
+  color:royalblue;
+}
+
+h4{
+  font-size: italic;
+  color: teal;
+}
